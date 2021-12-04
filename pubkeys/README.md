@@ -42,6 +42,11 @@ The public keys for PuTTY are:
 Note, according to [PuTTY dev team](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys.html), releases are only signed with the key current at time of release; versions from 2021 are signed with the 2018 release key.
 
 
+### rclone
+
+The [public key](pubkey_rclone_NCW.asc) for [rclone](https://github.com/rclone/rclone) was obtained on 2021-12-04 from [here](https://github.com/rclone/rclone/blob/master/cmd/selfupdate/verify.go). Nick Craig-Wood signs the releases.
+
+
 #### VeraCrypt
 
 The [public key](pubkey_VeraCrypt.asc) for [VeraCrypt](https://www.veracrypt.fr/) was obtained on 2021-12-03 from [here](https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc).
@@ -58,8 +63,12 @@ The [public key](pubkey_VeraCrypt.asc) for [VeraCrypt](https://www.veracrypt.fr/
 ## 2021-12-03
 
 - add Notepad++, PuTTY, and VeraCrypt pubkeys to /pubkeys.
-- add changelog
-- sign
+- add changelog.
+- sign.
+
+## 2021-12-04
+
+- add rclone.
 
 
 
