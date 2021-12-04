@@ -53,3 +53,14 @@ The [public key](pubkey_VeraCrypt.asc) for [VeraCrypt](https://www.veracrypt.fr/
 
 
 
+# Changelog
+
+## 2021-12-03
+
+- add Notepad++, PuTTY, and VeraCrypt pubkeys to /pubkeys.
+- add changelog
+- sign
+
+
+
+
