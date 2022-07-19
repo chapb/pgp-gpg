@@ -71,6 +71,9 @@ The [public key](pubkey_rclone_NCW.asc) for [rclone](https://github.com/rclone/r
 
 The [public key](pubkey_tails-signing.key) for [Tails](https://tails.boum.org/) was obtained on 2022-02-25 from [here](https://tails.boum.org/tails-signing.key). 
 
+## Ubuntu
+
+The [public key](pubkey_ubuntu_signing.asc) for [Ubuntu](https://ubuntu.com/) was obtained on 2022-07-18 from [here](https://ubuntu.com/tutorials/how-to-verify-ubuntu#4-retrieve-the-correct-signature-key).
 
 ## VeraCrypt
 
