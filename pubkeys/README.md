@@ -11,12 +11,14 @@ At present, they are not certified; they will be certified by my secondary, onli
   - [Calibre](#calibre)
   - [Clonezilla](#clonezilla)
   - [Cryptomator](#cryptomator)
+  - [Handbrake](#handbrake)
   - [KeePass](#keepass)
   - [Notepad++](#notepad)
   - [PuTTY](#putty)
   - [qBittorrent](#qbittorrent)
   - [rclone](#rclone)
   - [Tails](#tails)
+  - [Ubuntu](#ubuntu)
   - [VeraCrypt](#veracrypt)
   - [youtube-dl](#youtube-dl)
 - [Changelog](#changelog)
@@ -36,6 +38,10 @@ The [public key](pubkey_clonezilla.asc) for [Clonezilla](https://clonezilla.org/
 ## Cryptomator
 
 The [public key](pubkey_cryptomator.asc) for [Cryptomator](https://cryptomator.org/) was obtained on 2021-12-08 from [here](https://cryptomator.org/downloads/).
+
+## Handbrake
+
+The [public key](pubkey_handbrake_0x4E4A8645.asc) for Handbrake(https://handbrake.fr/) was obtained on 2022-10-07 from [here](https://github.com/HandBrake/HandBrake/wiki/OpenPGP).
 
 ## KeePass
 
