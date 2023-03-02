@@ -75,7 +75,7 @@ The [public key](pubkey_rclone_NCW.asc) for [rclone](https://github.com/rclone/r
 
 ## Tails
 
-The [public key](pubkey_tails-signing.key) for [Tails](https://tails.boum.org/) was obtained on 2022-02-25 from [here](https://tails.boum.org/tails-signing.key). 
+The [public key](pubkey_tails-signing.key) for [Tails](https://tails.boum.org/) was obtained on 2023-03-01 from [here](https://tails.boum.org/tails-signing.key). 
 
 ## Ubuntu
 
