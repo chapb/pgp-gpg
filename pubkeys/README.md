@@ -59,6 +59,9 @@ The public keys for PuTTY are:
 - [Release](pubkey_PuTTY_release-2021.asc) (2021) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/release-2021.asc)] obtained on 2021-12-03.
 - [Master](pubkey_PuTTY_master-2018.asc) (2018) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/master-2018.asc)] obtained on 2021-12-03.
 - [Release](pubkey_PuTTY_release-2018.asc) (2018) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/release-2018.asc)] obtained on 2021-12-03.
+- [Master](pubkey_PuTTY_master-2023.asc) (2018) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/master-2023.asc)] obtained on 2023-09-10.
+- [Release](pubkey_PuTTY_release-2023.asc) (2018) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/release-2023.asc)] obtained on 2023-09-10.
+
 
 Note, according to [PuTTY dev team](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys.html), releases are only signed with the key current at time of release; versions from 2021 are signed with the 2018 release key.
 
@@ -93,6 +96,8 @@ The [public key](pubkey_youtube-dl.asc) for [youtube-dl](https://youtube-dl.org/
 
 
 # Changelog
+
+- add PuTTY (2023) keys.
 
 ## 2022-02-25
 
