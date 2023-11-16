@@ -13,7 +13,9 @@ At present, they are not certified; they will be certified by my secondary, onli
   - [Cryptomator](#cryptomator)
   - [Handbrake](#handbrake)
   - [KeePass](#keepass)
+  - [LibreOffice](#libreoffice)
   - [Notepad++](#notepad)
+  - [PDFsam](#pdfsam)
   - [PuTTY](#putty)
   - [qBittorrent](#qbittorrent)
   - [rclone](#rclone)
@@ -22,6 +24,8 @@ At present, they are not certified; they will be certified by my secondary, onli
   - [VeraCrypt](#veracrypt)
   - [youtube-dl](#youtube-dl)
 - [Changelog](#changelog)
+  - [2023-11-16](#2023-11-16)
+  - [2023-09-10](#2023-09-10)
   - [2022-02-25](#2022-02-25)
   - [2021-12-03](#2021-12-03)
   - [2021-12-04](#2021-12-04)
@@ -47,9 +51,19 @@ The [public key](pubkey_handbrake_0x4E4A8645.asc) for Handbrake(https://handbrak
 
 The [public key](pubkey_KeePass_DominikReichl.asc) for [KeePass](https://keepass.info/) was obtained on 2022-02-10 from [here](https://keepass.info/integrity.html).
 
+## LibreOffice
+
+The [public key](pubkey_LibreOffice.asc) for [LibreOffice](https://www.libreoffice.org/) was obtained on 2023-11-16 from [here](https://lists.freedesktop.org/archives/libreoffice/2015-February/066756.html).
+
+> C283 9ECA D940 8FBE 9531 C3E9 F434 A1EF AFEE AEA3
+
 ## Notepad++
 
 The [public key](pubkey_Notepad_Plus_Plus.asc) for [Notepad++](https://notepad-plus-plus.org/) was obtained on 2021-12-03 from [here](https://notepad-plus-plus.org/gpg/nppGpgPub.asc).
+
+## PDFsam
+
+The [public key](pubkey_pdfsam.asc) for [PDFsam](https://pdfsam.org/) was obtained on 2023-11-16 from [here](https://blog.pdfsam.org/open-source/how-to-verify-that-the-downloaded-package-has-not-been-compromised/1967/).
 
 ## PuTTY
 
@@ -59,8 +73,8 @@ The public keys for PuTTY are:
 - [Release](pubkey_PuTTY_release-2021.asc) (2021) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/release-2021.asc)] obtained on 2021-12-03.
 - [Master](pubkey_PuTTY_master-2018.asc) (2018) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/master-2018.asc)] obtained on 2021-12-03.
 - [Release](pubkey_PuTTY_release-2018.asc) (2018) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/release-2018.asc)] obtained on 2021-12-03.
-- [Master](pubkey_PuTTY_master-2023.asc) (2018) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/master-2023.asc)] obtained on 2023-09-10.
-- [Release](pubkey_PuTTY_release-2023.asc) (2018) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/release-2023.asc)] obtained on 2023-09-10.
+- [Master](pubkey_PuTTY_master-2023.asc) (2023) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/master-2023.asc)] obtained on 2023-09-10.
+- [Release](pubkey_PuTTY_release-2023.asc) (2023) [[source](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys/release-2023.asc)] obtained on 2023-09-10.
 
 
 Note, according to [PuTTY dev team](https://www.chiark.greenend.org.uk/~sgtatham/putty/keys.html), releases are only signed with the key current at time of release; versions from 2021 are signed with the 2018 release key.
@@ -96,6 +110,13 @@ The [public key](pubkey_youtube-dl.asc) for [youtube-dl](https://youtube-dl.org/
 
 
 # Changelog
+
+## 2023-11-16
+
+- add LibreOffice key.
+- add PDFsam key. 
+
+## 2023-09-10
 
 - add PuTTY (2023) keys.
 
